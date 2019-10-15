@@ -8,4 +8,8 @@
 * Wechat / 微信公众号 - [黯晓](https://hijiangtao.github.io/assets/pic/qrcode_for_gh_4e090cdcbcc5_258.jpg)
 * Others - TBD
 
+Tao Jiang, Graduated from UCAS (2015.09-2018.06) with programming skills in diverse languages and experience in industrial and research settings. Web development engineer at Alibaba Group.
+
+Location: Wangjing District, Beijing, China
+
 有啥感兴趣的欢迎给我[留言](https://hijiangtao.github.io/guestbook)。
