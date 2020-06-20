@@ -1,5 +1,3 @@
-# hijiangtao
-
 常以昵称 @hijiangtao 活跃在各网络社区，中文也称 @黯晓，我常去的几个地方有：
 
 * Joe's Blog / 我的博客 - <https://hijiangtao.github.io/>
