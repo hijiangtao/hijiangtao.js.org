@@ -1,4 +1,6 @@
-# 中文版
+# hijiangtao
+
+## 中文版
 
 Hi，朋友，感谢光临 <https://hijiangtao.js.org/>，下面请允许我简单介绍一下自己啦。
 
@@ -9,13 +11,13 @@ Hi，朋友，感谢光临 <https://hijiangtao.js.org/>，下面请允许我简�
 * Zhihu / 知乎 - <https://www.zhihu.com/people/hijiangtao/>
 * Wechat / 微信公众号 - [黯晓](https://hijiangtao.github.io/assets/pic/qrcode_for_gh_4e090cdcbcc5_258.jpg)
 
-我的职位是一名前端工程师，参与的研发工作较广，既包含日常业务如跨端移动应用开发、Node.js 系统开发、可视化组件与中后台系统开发，也包含一些技术专项和前端基础设施建设，当前工作内容主要在前端技术优化、研发流程自动化和 2B 业务上。
+我是一名前端工程师，在过去几年间参与的研发工作较广，既包含日常业务如跨端移动应用开发、Node.js 应用开发、可视化组件与中后台系统开发，也包含一些技术专项与前端基础设施建设，当前工作内容主要集中在 2B 业务与前端基础设施建设上。
 
 有啥感兴趣的欢迎给我[留言](https://hijiangtao.github.io/guestbook)。
 
 北京·海淀
 
-# English Version
+## English Version
 
 Hi, boys and girls, welcome to <https://hijiangtao.js.org/>, please let me make a brief introduction about myself.
 
